@@ -5,18 +5,8 @@
 
 **SCM (Supply Chain Management)** is a web-based system designed to manage and automate the ordering and inventory processes between **Suppliers**, **Dealers**, and **Wholesalers**. The goal is to replace manual, offline transactions with a streamlined online platform that improves efficiency, reduces cost, and ensures real-time order tracking.
 
-This project was developed as part of the final year diploma submission for **C. U. Shah Government Polytechnic, Surendranagar** under **Gujarat Technological University**.
 
----
-
-## 👥 Team Members
-
-- Jimit S. Dagli (206090307002)  
-- Vishal R. Parmar (206090307031)  
-- Sumeet K. Kapadia (206090307059)  
-- Tirth M. Doshi (206090307063)  
-
-**Internal Guide:** Mr. B. D. Limbasiya
+--
 
 ---
 
